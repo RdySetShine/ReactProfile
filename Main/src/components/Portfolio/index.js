@@ -6,35 +6,47 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'maximum-notetaker',
+      description: 'Note taking Application',
+      link: "https://maximumtaker-556232facc9a.herokuapp.com",
+      repo: "https://github.com/RdySetShine/NoteMaximumTaker"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '',
+      description: '',
+      link: "",
+      repo: ""
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '',
+      description: '',
+      link: "",
+      repo: ""
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '',
+      description: '',
+      link: "",
+      repo: ""
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: '',
+      description: '',
+      link: "",
+      repo: ""
     },
+    {
+      name: '',
+      description: '',
+      link: "",
+      repo: ""
+    }
+
+    // https://maximumtaker-556232facc9a.herokuapp.com/
+
+
+
+
   ]);
 
   return (
