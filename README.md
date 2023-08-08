@@ -60,6 +60,6 @@ Austin Grech
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarini](https://github.com/RdySetShine)
+- GitHub: [BrunoRosarini](https://github.com/RdySetShine/ReactProfile)
 
 - Email: (rosarinibruno@gmail.com)
