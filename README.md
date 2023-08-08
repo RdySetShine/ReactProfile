@@ -50,7 +50,9 @@ This project is licensed under the MIT license. For more information about the l
 
 Bruno Rosarini  
 
-## Contributing
+## Contributors
+
+Yoshiyahu Cea
 
 Austin Grech
 
