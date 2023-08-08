@@ -24,10 +24,10 @@ function Portfolio() {
       repo: "https://github.com/RdySetShine/Pok-feels-Movie-Edition"
     },
     {
-      name: '',
-      description: '',
-      link: "",
-      repo: ""
+      name: 'Sick-Weather-Dashboard',
+      description: 'HTML, CSS, JS',
+      link: "https://rdysetshine.github.io/Sick-Weather-Dashboard/",
+      repo: "https://github.com/RdySetShine/Sick-Weather-Dashboard"
     },
     {
       name: '',
