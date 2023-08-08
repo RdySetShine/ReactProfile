@@ -12,16 +12,16 @@ function Portfolio() {
       repo: "https://github.com/RdySetShine/NoteMaximumTaker"
     },
     {
-      name: '',
-      description: '',
-      link: "",
-      repo: ""
+      name: 'refactored-horiseon-webpage',
+      description: 'HTML, CSS',
+      link: "https://rdysetshine.github.io/Refactored-Horiseon-Webpage/",
+      repo: "https://github.com/RdySetShine/Refactored-Horiseon-Webpage"
     },
     {
-      name: '',
-      description: '',
-      link: "",
-      repo: ""
+      name: 'POKE-FEELS-MOVIE-EDITION',
+      description: 'HTML, CSS, JS ',
+      link: "https://massicottec.github.io/poke-feels-movie-edition/index.html",
+      repo: "https://github.com/RdySetShine/Pok-feels-Movie-Edition"
     },
     {
       name: '',
