@@ -36,10 +36,10 @@ function Portfolio() {
       repo: "https://github.com/RdySetShine/FernFormation"
     },
     {
-      name: '',
-      description: '',
-      link: "",
-      repo: ""
+      name: 'Personal-Portfolio',
+      description: 'HTML, CCS, Landing Page with Professional contact Info ',
+      link: "https://rdysetshine.github.io/My-Portfolio-Assignment/",
+      repo: "https://github.com/RdySetShine/My-Portfolio-Assignment"
     }
 
 
