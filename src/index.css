@@ -241,6 +241,7 @@ textarea {
 }
 
 .flex-row {
+
   display: flex;
   flex-wrap: wrap;
 }
@@ -316,7 +317,7 @@ textarea {
 }
 
 .project-bg {
-  position: relative;
+  position: absolute;
   width: 100%;
   height: 100%;
 }
@@ -330,13 +331,13 @@ textarea {
     right: 0px;
     padding: 50px;
     z-index: 900;
-    opacity: 0;
+    opacity: 1;
     transition: all .5s ease-in-out;
 }
 
 .project-text:hover {
   background-color: var(--alpha);
-  opacity: 1;
+  /* opacity: 1; */
   border: 10px solid var(--secondary);
 }
 

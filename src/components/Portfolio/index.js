@@ -9,7 +9,8 @@ function Portfolio() {
       name: 'maximum-notetaker',
       description: 'Note taking Application',
       link: "https://maximumtaker-556232facc9a.herokuapp.com",
-      repo: "https://github.com/RdySetShine/NoteMaximumTaker"
+      repo: "https://github.com/RdySetShine/NoteMaximumTaker",
+      img: "https://github.com/RdySetShine/ReactProfile/blob/main/src/assets/projects/maximum-notetaker.jpg",
     },
     {
       name: 'refactored-horiseon-webpage',

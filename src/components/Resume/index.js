@@ -1,11 +1,11 @@
 import React from 'react';
-
+import Resume1 from '../../assets/projects/Resume1.pdf'
 function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="https://www.linkedin.com/">resume</a>
+        Download my <a href={Resume1}>resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
