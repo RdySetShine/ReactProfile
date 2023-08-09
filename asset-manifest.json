@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RdySetShine.github.io/ReactProfile/static/css/main.8f69bd47.css",
+    "main.js": "/RdySetShine.github.io/ReactProfile/static/js/main.e188d540.js",
+    "static/media/cover-image.jpg": "/RdySetShine.github.io/ReactProfile/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/refactored-horiseon-webpage.jpg": "/RdySetShine.github.io/ReactProfile/static/media/refactored-horiseon-webpage.e1b0e99d8753e550ffc3.jpg",
+    "static/media/Sick-Weather-Dashboard.jpg": "/RdySetShine.github.io/ReactProfile/static/media/Sick-Weather-Dashboard.9c17e1ca5121cfcda5ef.jpg",
+    "static/media/Personal-Portfolio.jpg": "/RdySetShine.github.io/ReactProfile/static/media/Personal-Portfolio.42bd9877e7baf6f485cd.jpg",
+    "static/media/POKE-FEELS-MOVIE-EDITION.jpg": "/RdySetShine.github.io/ReactProfile/static/media/POKE-FEELS-MOVIE-EDITION.92b9def5e969c2109c86.jpg",
+    "static/media/Resume1.pdf": "/RdySetShine.github.io/ReactProfile/static/media/Resume1.406486fd41cdd70b54f8.pdf",
+    "static/media/brunopic.jpg": "/RdySetShine.github.io/ReactProfile/static/media/brunopic.d73b7be8133134408f1f.jpg",
+    "static/media/Fern-Formation.jpg": "/RdySetShine.github.io/ReactProfile/static/media/Fern-Formation.c8d2b168166aad0e93ea.jpg",
+    "static/media/maximum-notetaker.jpg": "/RdySetShine.github.io/ReactProfile/static/media/maximum-notetaker.c95d1fb72a019728828b.jpg",
+    "index.html": "/RdySetShine.github.io/ReactProfile/index.html",
+    "main.8f69bd47.css.map": "/RdySetShine.github.io/ReactProfile/static/css/main.8f69bd47.css.map",
+    "main.e188d540.js.map": "/RdySetShine.github.io/ReactProfile/static/js/main.e188d540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f69bd47.css",
+    "static/js/main.e188d540.js"
+  ]
+}
