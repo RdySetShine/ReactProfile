@@ -41,9 +41,13 @@ function Portfolio() {
       description: 'HTML, CCS, Landing Page with Professional contact Info ',
       link: "https://rdysetshine.github.io/My-Portfolio-Assignment/",
       repo: "https://github.com/RdySetShine/My-Portfolio-Assignment"
+    },
+    {
+      name: 'Kb-Fanatics',
+      description: 'e-commerce store for Keyboards using React ',
+      link: "https://kb-fanatics-2-c059b16fa22f.herokuapp.com/",
+      repo: "https://github.com/RdySetShine/KBFanatics"
     }
-
-
   ]);
 
   return (
